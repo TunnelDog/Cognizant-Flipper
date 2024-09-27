@@ -14,7 +14,7 @@ App(
     fap_category="MISC",
     fap_version="1.0",
     fap_icon="cognizantflipper.png",  # 10x10 1-bit PNG
-    fap_description="Create NFC tags that direct you to a URL",
+    fap_description="Random Word Generator",
     fap_author="Luke Gamertsfelder",
     fap_weburl="https://github.com/TunnelDog/Cognizant-Flipper",
 )
