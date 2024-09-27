@@ -16,5 +16,5 @@ App(
     fap_icon="cognizantflipper.png",  # 10x10 1-bit PNG
     fap_description="Create NFC tags that direct you to a URL",
     fap_author="Luke Gamertsfelder",
-    fap_weburl="https://github.com/tunneldog",
+    fap_weburl="https://github.com/TunnelDog/Cognizant-Flipper",
 )
